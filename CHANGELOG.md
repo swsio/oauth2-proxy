@@ -35,6 +35,7 @@
 
 ## Changes since v6.1.1
 
+- [#916](https://github.com/oauth2-proxy/oauth2-rpoxy/pull/916) Add AlphaOptions struct to prepare for alpha config loading (@JoelSpeed)
 - [#911](https://github.com/oauth2-proxy/oauth2-rpoxy/pull/911) Validate provider type on startup.
 - [#906](https://github.com/oauth2-proxy/oauth2-proxy/pull/906) Set up v6.1.x versioned documentation as default documentation (@JoelSpeed)
 - [#905](https://github.com/oauth2-proxy/oauth2-proxy/pull/905) Remove v5 legacy sessions support (@NickMeves)
